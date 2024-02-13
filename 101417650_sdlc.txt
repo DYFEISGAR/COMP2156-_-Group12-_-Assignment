@@ -1,1 +1,0 @@
-DevOps (Development and Operations) is a set of practices that aims to automate and improve the collaboration between software development and IT operations teams. A DevOps engineer plays a crucial role in implementing these practices, and their importance in the software development cycle cannot be overstated
