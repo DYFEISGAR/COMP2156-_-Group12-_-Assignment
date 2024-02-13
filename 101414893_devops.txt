@@ -1,4 +1,9 @@
 Course Description
+This course is designed to better prepare professionals entering the IT field.
+Specifically, a field where servers, web apps and infrastructure will be core to
+business needs. COMP 3104 will provide a hands-on experience through the
+implementation of tried, tested and true DevOps technologies.
+
 In this course students will learn the procedures, protocols and best practices that a DevOps engineer
 brings to a workplace environment to increase productivity. Analyze and evaluate various developer
 operation implementations available and implement hands-on work using industry standard toolkit.
