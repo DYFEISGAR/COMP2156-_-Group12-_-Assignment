@@ -1,15 +1,16 @@
-# Devops Group assignment
-## Group 12
-### NO. of group members: 6
+# Devops Group assignment - Group 12
+## NO. of group members
+6 members 
 ## Members of the group
  1. Henry Gundy (student ID # 100842530; leader/owner; initiated connection to CI tool)  
  2. vinaya sree  
-    student id : 101417650  
+    student ID: 101417650  
     name: vinaya sree vanagan ti
  3. sanehpreet  
  4. kamrul  
  5. Ryoga Mori  
     student ID: 101409131 
+ 6. Akinyemi Kola 
 
 ## Member's Contributions 
 ### CHANGES OF MD KAMRUL ISLAM
