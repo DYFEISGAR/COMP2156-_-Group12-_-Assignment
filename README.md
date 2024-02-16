@@ -8,7 +8,7 @@
     name: vinaya sree vanagan ti
  3. sanehpreet  
  4. kamrul  
- 5. Ryoga
+ 5. Ryoga Mori
 
 ## Member's Contributions 
 ### CHANGES OF MD KAMRUL ISLAM
@@ -17,4 +17,5 @@
  Readme file is also updated  
 ### CHANGES DONE BY SANEPREET
 ALL FILES ARE ADDED & UPDATED
-
+### CHANGES OF RYOGA MORI  
+added 101409131 Files with the contents
