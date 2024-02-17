@@ -16,6 +16,14 @@
  6. Akinyemi Kola 
 
 ## Member's Contributions 
+### CHANGES MADE BY HENRY
+Initiated the repository;
+added group members
+connected repo to a CI tool
+added 3 files to 100842530-Henry branch with 10+ commits
+updated local branch
+merged branch with main and resolved conflicts
+updated this README.md file
 ### CHANGES OF MD KAMRUL ISLAM
  3 files added
  Necessary contens added in 3 files
