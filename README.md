@@ -3,4 +3,25 @@
 
 
 ### NO. of group members: 6
-### Menbers of the group: 1. henry  2.vinaya sree 3.sanehpreet 4. kamrul
+
+## Members of the group
+ 1. Henry Gundy (student ID # 100842530; leader/owner; initiated connection to CI tool)  
+ 2. vinaya sree  
+    student ID: 101417650  
+    name: vinaya sree vanagan ti
+ 3. sanehpreet  
+ 4. kamrul  
+ 5. Ryoga Mori  
+    student ID: 101409131 
+ 6. Akinyemi Kola 
+
+## Member's Contributions 
+### CHANGES OF MD KAMRUL ISLAM
+ 3 files added
+ Necessary contens added in 3 files
+ Readme file is also updated  
+### CHANGES DONE BY SANEPREET
+ALL FILES ARE ADDED & UPDATED
+### CHANGES OF RYOGA MORI  
+added 101409131 Files with the contents
+edited the format of README.md
