@@ -24,7 +24,7 @@ added 3 files to 100842530-Henry branch with 10+ commits
 updated local branch
 merged branch with main and resolved conflicts
 updated this README.md file
-### CHANGES MADE BY HENRY
+### CHANGES MADE BY VINAYA SREE
 created my branch 101417650-vinayasree
 added 3 files to this branch with 10+ commits
 merged with main and resolved conflicts
