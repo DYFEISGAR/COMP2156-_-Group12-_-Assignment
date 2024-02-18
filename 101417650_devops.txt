@@ -5,5 +5,3 @@ Create solution to complex business problem by adhering to the core responsibili
 will learn about data formats and types, including Extensible Markup Language (XML), JavaScript
 Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next Generation
 (YANG), and their value in network automation, along with DevOps tools such as Ansible and Git
-
-a DevOps engineer is instrumental in implementing practices that lead to faster, more reliable, and higher-quality software development. The adoption of DevOps principles has become a standard in the industry, and learning DevOps is crucial for professionals involved in software development and IT operations
