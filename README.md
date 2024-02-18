@@ -6,11 +6,16 @@
 
 ## Members of the group
  1. Henry Gundy (student ID # 100842530; leader/owner; initiated connection to CI tool)  
- 2. vinaya sree  
-    student ID: 101417650  
-    name: vinaya sree vanagan ti
- 3. sanehpreet  
- 4. kamrul  
+ 2. Vinaya Sree ( Created and Updated README.md file, Created Pull request template) 
+    Student ID: 101417650  
+    Name: vinaya sree vanaganti
+    Branch Name: 101417650-vinayasree
+ 3. Sanehpreet Kaur
+     Student ID: 101414893
+     Branch Name: 101414893-sanehpreet
+ 4. Kamrul  Islam
+     Student ID: 101453269
+     Branch name: 101453269-kamrul
  5. Ryoga Mori  
     student ID: 101409131 
  6. Akinyemi Kola 
